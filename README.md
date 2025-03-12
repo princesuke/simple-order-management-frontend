@@ -1,75 +1,23 @@
-# Nuxt Minimal Starter
+# 🚀 Simple Order Management Frontend
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Frontend project using **Nuxt 3** + **Tailwind CSS v4**.
 
-## Setup
+## 📌 Features
 
-Make sure to install dependencies:
+- ✅ Nuxt 3 (Vue 3)
+- ✅ Tailwind CSS v4 with PostCSS
+- ✅ Fetching API for order management
 
-```bash
-# npm
+## 🚀 Setup
+
+1️⃣ **Install dependencies**
+
+```sh
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
+#### 2️⃣ **Run the project**
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+```sh
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
